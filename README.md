@@ -1,6 +1,7 @@
 **DadJokes Chrome Extension**
 
 <img width="215" alt="Screenshot 2024-06-07 at 9 44 11 PM" src="https://github.com/nilaysrivastava/ChromeExtension-DadJokes/assets/139038819/ccd26ca5-d3f7-4112-a82f-0b4e801f4ae0">
+<img width="341" alt="Screenshot 2024-06-07 at 10 12 47 PM" src="https://github.com/nilaysrivastava/ChromeExtension-DadJokes/assets/139038819/556225dc-6f5d-4d3c-8e27-54ec3a639b3d">
 
 ---
 
