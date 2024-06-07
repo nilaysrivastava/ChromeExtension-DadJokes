@@ -1,6 +1,6 @@
 **DadJokes Chrome Extension**
 
-![DadJokes Logo](https://example.com/dadjokes-logo.png)
+<img width="215" alt="Screenshot 2024-06-07 at 9 44 11 PM" src="https://github.com/nilaysrivastava/ChromeExtension-DadJokes/assets/139038819/ccd26ca5-d3f7-4112-a82f-0b4e801f4ae0">
 
 ---
 
@@ -61,15 +61,9 @@ Contributions to the DadJokes Chrome Extension are welcome! If you'd like to con
 
 4. Open a pull request to merge your changes into the main repository.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgements
 
-- DadJokes API (https://example.com/api/dadjokes)
-- Icons by [FontAwesome](https://fontawesome.com/)
+- DadJokes API (https://icanhazdadjoke.com/slack)
 
 ---
-
-Feel free to customize this README file according to your project's specific details and requirements.
